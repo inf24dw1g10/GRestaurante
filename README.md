@@ -1,10 +1,6 @@
 # GRestaurante
 
-Space Invaders é um jogo de tiro em 2D/Consola onde controlas uma nave que se move para os lados na parte inferior do ecrã e atira em alienígenas que descem em direção ao atirador. O objetivo é destruir cinco filas de dez aliens antes que alcancem a parte inferior do ecrã.
-
-Os aliens movem-se para os lados e descem lentamente, vão acelerando à medida que os elimina. Eles também atiram de volta. Se um alien atingir a tua nave ou chegar ao fundo do ecrã, o jogo termina.
-
-Às vezes, um "navio misterio" aparece na parte superior do ecrã e se conseguires destruí-lo, ganhas pontos extras. A tua nave é protegida por alguns bunkers que podem ser destruídos tanto pelos seus tiros quanto pelos tiros dos aliens.
+Este projeto é uma aplicação que facilita a gestão de reservas em restaurantes. Ele permite que restaurantes, clientes e reservas sejam registados e geridos de maneira eficiente, garantindo a verificação automática de disponibilidade de mesas.
 
 ## 🕹️ How to Install
 
