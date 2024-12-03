@@ -1,0 +1,27 @@
+openapi: 3.0.0
+info:
+  title: Sistema de Reservas para Restaurantes
+  version: 1.0.0
+paths:
+  /api/restaurantes:
+    post:
+      summary: Criar um novo restaurante
+      responses:
+        '201':
+          description: Restaurante criado com sucesso
+    get:
+      summary: Obter todos os restaurantes
+      responses:
+        '200':
+          description: Lista de restaurantes
+  /api/clientes:
+    post:
+      summary: Criar um novo cliente
+      responses:
+        '201':
+          description: Cliente criado com sucesso
+    get:
+      summary: Obter todos os clientes
+      responses:
+        '200':
+          description: Lista de clientes
