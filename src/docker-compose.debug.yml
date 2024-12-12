@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  grestaunte:
+    image: grestaunte
+    build:
+      context: .
+      dockerfile: ./Dockerfile

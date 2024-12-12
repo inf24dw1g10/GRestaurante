@@ -1,0 +1,12 @@
+{
+  "name": "grestaunte",
+  "version": "1.0.0",
+  "description": "Este projeto é uma aplicação que facilita a gestão de reservas em restaurantes. Ele permite que restaurantes, clientes e reservas sejam registados e geridos de maneira eficiente, garantindo a verificação automática de disponibilidade de mesas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
